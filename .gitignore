@@ -1,0 +1,15 @@
+# Go
+server
+*.exe
+
+# Env
+.env
+
+# Vue build output
+dist/
+
+# Node
+ui/node_modules/
+
+# OS
+.DS_Store
