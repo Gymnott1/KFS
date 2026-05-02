@@ -218,3 +218,4 @@ In dev mode, Vite proxies all `/api` requests to the Go server automatically.
 | `make ui`    | Build Vue into dist/                     |
 | `make build` | Build Vue then compile Go binary         |
 | `make dev`   | Run Go + Vite dev server concurrently    |
+# KFS
